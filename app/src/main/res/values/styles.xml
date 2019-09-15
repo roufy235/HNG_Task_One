@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/black</item>
+
+
+        <item name="android:textViewStyle">@style/roboto_slab_text</item>
+        <item name="buttonStyle">@style/roboto_slab_bold</item>
+        <item name="editTextStyle">@style/roboto_slab__edit_text</item>
+    </style>
+
+    <style name="noActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/black</item>
+
+        <item name="android:textViewStyle">@style/roboto_slab_text</item>
+        <item name="buttonStyle">@style/roboto_slab_bold</item>
+        <item name="editTextStyle">@style/roboto_slab__edit_text</item>
+    </style>
+
+
+    <style name="roboto_slab_bold" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_slab_bold</item>
+        <item name="fontFamily">@font/roboto_slab_bold</item>
+    </style>
+
+    <style name="roboto_slab__edit_text" parent="android:Widget.EditText">
+        <item name="android:fontFamily">@font/roboto_slab_regular</item>
+        <item name="fontFamily">@font/roboto_slab_regular</item>
+    </style>
+
+    <style name="roboto_slab__button" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/roboto_slab_regular</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/roboto_slab_regular</item>
+    </style>
+
+    <style name="roboto_slab_text" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/roboto_slab_regular</item>
+        <item name="fontFamily">@font/roboto_slab_regular</item>
+    </style>
+
+</resources>

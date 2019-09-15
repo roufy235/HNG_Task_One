@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HNG</string>
+    <string name="not_a_member_yet_sign_up">Not a member yet? <font color="#1a75bc">Sign Up</font></string>
+    <string name="not_a_member_yet_sign_in">Already a member? <font color="#1a75bc">Login</font></string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
