@@ -8,4 +8,5 @@
     <string name="create_account">Create Account</string>
     <string name="name">Name</string>
     <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
