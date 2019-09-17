@@ -15,3 +15,7 @@ iOS: React Native
 Deadline: 22/Sept. 2019
 
 Submission: https://forms.gle/VAzEJhHoDDo78VG98
+
+
+# Splash Screen
+
