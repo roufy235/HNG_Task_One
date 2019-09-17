@@ -20,3 +20,11 @@ Submission: https://forms.gle/VAzEJhHoDDo78VG98
 # Splash Screen
 ![alt text](https://drive.google.com/uc?export=view&id=1lZXu7kkdQOxyvmag1mkRCyvddJV_vhp2)
 
+# Registration
+![alt text](https://drive.google.com/uc?export=view&id=120Ate85OOuc2qX4tLeCP82TGYr_J_IrB)
+
+# Login
+![alt text](https://drive.google.com/uc?export=view&id=11w0W0gpnUwYD8B4InyILNFyBPDflG5uX)
+
+# Dashboard
+![alt text](https://drive.google.com/uc?export=view&id=123eQWI2kMP3juAfarJORDhrxRh4VfuLU)
