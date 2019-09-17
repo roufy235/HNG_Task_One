@@ -18,4 +18,5 @@ Submission: https://forms.gle/VAzEJhHoDDo78VG98
 
 
 # Splash Screen
+![alt text](https://drive.google.com/uc?export=view&id=1lZXu7kkdQOxyvmag1mkRCyvddJV_vhp2)
 
