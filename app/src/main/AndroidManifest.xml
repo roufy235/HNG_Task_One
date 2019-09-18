@@ -12,10 +12,12 @@
         <activity
             android:name=".controllers.SignUpActivity"
             android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
             android:theme="@style/noActionBar"/>
         <activity
             android:name=".controllers.LoginActivity"
             android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
             android:theme="@style/noActionBar" />
         <activity
             android:name=".controllers.WelcomeActivity"
